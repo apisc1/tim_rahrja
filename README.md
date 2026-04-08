@@ -1,1 +1,1 @@
-pengerjaan tugas kolaborasi git sederhana kelas x tkjt2
+tugas kolaborasi git sederhana x tkjt2
